@@ -5,8 +5,10 @@ Ask Captain Cyber is a chatbot that combines AI and human experts to give users 
 
 My role:
 I did a mix of front-end design and back-end work throughout the project. This made my job more of an all-around helper.
+
 Skills or knowledge gained:
 WordPress:
 I gained experience working with WordPress to code coding AI plugins. 
+
 Big picture contribution: 
 //TODO
