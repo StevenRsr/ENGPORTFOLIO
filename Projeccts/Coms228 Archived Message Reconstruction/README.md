@@ -10,5 +10,5 @@ My role:
 Skills or knowledge gained:
 //TODO
 
-Big picture contribution: 
+Resources used:
 //TODO
