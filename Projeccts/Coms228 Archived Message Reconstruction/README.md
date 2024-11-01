@@ -11,4 +11,4 @@ Skills or knowledge gained:
 One skill I gained was Binary tree construction and traversal, learned from making the functions to create the binary tree that would decode the message. Another skill I learned would be data compression, gaining first-hand experience by uncompressing the message.
 
 Resources used:
-With no skeleton code provided for this project, one of the primary resources I used was StackOverFlow to get a starting class base and to understand some of the methods that can be used for decompression.
+With no skeleton code provided for this project, one of the primary resources I used was StackOverFlow to get a starting class base and to understand some of the methods that can be used for decompression. But I primarily used course material from throughout the year to complete this project 
