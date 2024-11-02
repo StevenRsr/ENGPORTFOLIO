@@ -11,3 +11,5 @@ Some of the skills i gained would be WordPress and AI API uses. I gained experie
 
 Big picture contribution:
 My big-picture contribution would be some of the webpage design and AI integration. While I can't take credit for it all, I had a significant role in implementing some of the website's aspects that help user-friendliness.
+
+NOTE: The project is currently incomplete. Some documents will be uploaded upon completion.
